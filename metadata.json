@@ -1,0 +1,5 @@
+{
+  "name": "320DL Interactive Excavator Schematic",
+  "description": "An interactive technical tool for the Caterpillar 320DL excavator, featuring real-time hydraulic flow visualization, joystick/pedal controls, and technical component mapping based on official documentation.",
+  "requestFramePermissions": []
+}
